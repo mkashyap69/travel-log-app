@@ -1,5 +1,5 @@
 # travel-log-app
-A travel log app with map features
+A Travel logging app with mapbox api for map and locating places, made using MERN stack.
 
 
 ## SITE DEPLOYED AT
